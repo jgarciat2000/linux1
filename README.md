@@ -1,2 +1,2 @@
-# linux1
+# linux
 aprendiendo
